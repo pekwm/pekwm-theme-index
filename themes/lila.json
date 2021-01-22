@@ -1,0 +1,16 @@
+{
+    "registry-version": 1,
+
+    "author": "Claes Nästén",
+    "name": "lila",
+    "title": "Original theme, previously named purple-p",
+    "description": "Original theme from the early days of pekwm, created on Solaris",
+    "homepage": "https://github.com/pekdon/pekwm-theme-lila",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/pekdon/pekwm-theme-lila.git",
+            "branch": "main"
+        }
+    }
+}

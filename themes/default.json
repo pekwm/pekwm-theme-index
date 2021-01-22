@@ -1,0 +1,15 @@
+{
+    "registry-version": 1,
+
+    "author": "adriano.src",
+    "name": "default",
+    "title": "pekwm default theme by adriano.src",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/pekdon/pekwm.git",
+            "branch": "master"
+        },
+        "base-path": "data/themes/default"
+    }
+}
