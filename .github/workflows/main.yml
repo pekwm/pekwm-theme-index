@@ -1,0 +1,12 @@
+on: [push]
+
+jobs:
+  validate_themes:
+    runs-on: ubuntu-latest
+    name: Validate theme entries
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Validate themes
+        id: validate
+        uses: pekdon/pekwm-theme-index-validator@v1
