@@ -1,0 +1,15 @@
+{
+    "registry-version": 1,
+
+    "author": "Victor Geraldsson",
+    "name": "benu",
+    "title": "BeOS style theme for pekwm",
+    "homepage": "https://github.com/vicgeralds/benu",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/vicgeralds/benu.git",
+            "branch": "master"
+        }
+    }
+}
