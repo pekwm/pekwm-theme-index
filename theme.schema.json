@@ -20,7 +20,8 @@
         },
         "original-theme-homepage": {
             "description": "Homepage of the original version of the theme (or of the original theme author), set if it is a theme port",
-            "type": "uri"
+            "type": "string",
+            "format": "uri"
         },
         "original-theme-wm": {
             "description": "Window Manager / OS of the original theme",
@@ -43,6 +44,7 @@
         },
         "homepage": {
             "description": "Theme homepage",
+            "type": "string",
             "format": "uri"
         },
         "source": {
