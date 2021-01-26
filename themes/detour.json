@@ -4,8 +4,10 @@
     "author": "Oliver Kraitschy",
     "original-theme-author": "Alberto Castro",
     "original-theme-wm": "E17",
+    "original-theme-homepage": "https://cored.org/UI/EFL/detour/",
     "name": "Detour",
     "title": "Detour theme for pekwm",
+    "description": "Detour, ported from the E17 Detour theme by Alberto Castro aka Tokyo.",
     "homepage": "https://github.com/okraits/pekwm-theme-detour",
     "source": {
         "type": "git",
