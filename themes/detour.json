@@ -1,0 +1,17 @@
+{
+    "registry-version": 1,
+
+    "author": "Oliver Kraitschy",
+    "original-theme-author": "Alberto Castro",
+    "original-theme-wm": "E17",
+    "name": "Detour",
+    "title": "Detour theme for pekwm",
+    "homepage": "https://github.com/okraits/pekwm-theme-detour",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/okraits/pekwm-theme-detour.git",
+            "branch": "main"
+        }
+    }
+}
