@@ -18,6 +18,10 @@
             "description": "Author of the original version of the theme, set if it is a theme port",
             "type": "string"
         },
+        "original-theme-homepage": {
+            "description": "Homepage of the original version of the theme (or of the original theme author), set if it is a theme port",
+            "type": "uri"
+        },
         "original-theme-wm": {
             "description": "Window Manager / OS of the original theme",
             "type": "string",
