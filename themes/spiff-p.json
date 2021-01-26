@@ -1,0 +1,17 @@
+{
+    "registry-version": 1,
+
+    "author": "Claes Nästén",
+    "original-author": "Garrett LeSage",
+    "name": "spiff-p",
+    "title": "spiff-p, port of E16 spiff theme by Garrett LeSage",
+    "description": "Early pekwm theme that has been updated multiple times over the years by amongst others okraits.",
+    "homepage": "https://github.com/pekdon/pekwm-theme-spiff-p",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/pekdon/pekwm-theme-spiff-p.git",
+            "branch": "master"
+        }
+    }
+}
