@@ -1,0 +1,19 @@
+{
+    "registry-version": 1,
+
+    "author": "Oliver Kraitschy",
+    "original-theme-author": "Christoph Strake",
+    "original-theme-wm": "Fluxbox",
+    "original-theme-homepage": "https://www.deviantart.com/toy/art/m0nst4-581961",
+    "name": "m0nst4",
+    "title": "m0nst4, Fluxbox styled theme for pekwm",
+    "description": "m0nst4, ported from the Fluxbox m0nst4 theme by Christoph Strake aka chr1z.",
+    "homepage": "https://github.com/okraits/pekwm-theme-m0nst4",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/okraits/pekwm-theme-m0nst4.git",
+            "branch": "main"
+        }
+    }
+}
