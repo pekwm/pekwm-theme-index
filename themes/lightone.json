@@ -1,0 +1,19 @@
+{
+    "registry-version": 1,
+
+    "author": "Oliver Kraitschy",
+    "original-theme-author": "kvas",
+    "original-theme-wm": "E16",
+    "original-theme-homepage": "https://themes.effx.us/",
+    "name": "LightOne",
+    "title": "LightOne, port of the E16 theme by kvas",
+    "description": "LightOne, ported from the E16 LightOne theme by kvas.",
+    "homepage": "https://github.com/okraits/pekwm-theme-lightone",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/okraits/pekwm-theme-lightone.git",
+            "branch": "main"
+        }
+    }
+}
