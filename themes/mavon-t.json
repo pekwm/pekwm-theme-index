@@ -1,0 +1,19 @@
+{
+    "registry-version": 1,
+
+    "author": "Oliver Kraitschy",
+    "original-theme-author": "Unknown",
+    "original-theme-wm": "mavosxwm",
+    "original-theme-homepage": "http://mavosxwm.sourceforge.net/",
+    "name": "mavon-t",
+    "title": "mavon-t, port of a theme for mavosxwm",
+    "description": "mavon-t, originally ported from mavosxwm to pekwm by chr1z.",
+    "homepage": "https://github.com/okraits/pekwm-theme-mavon-t",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/okraits/pekwm-theme-mavon-t.git",
+            "branch": "main"
+        }
+    }
+}
