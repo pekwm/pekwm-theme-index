@@ -9,4 +9,4 @@ jobs:
         uses: actions/checkout@v2
       - name: Validate themes
         id: validate
-        uses: pekdon/pekwm-theme-index-validator@v1
+        uses: pekwm/pekwm-theme-index-validator@v1
