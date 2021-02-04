@@ -1,0 +1,17 @@
+{
+    "registry-version": 1,
+
+    "author": "Paulo Silva",
+    "name": "4dwm_based",
+    "title": "4dwm_based",
+    "description": "This is just a PekWM theme superficially based on SGI Irix 4DWM window manager - the button, decoration bevel and window title text arrangement is different from the original, and the button icons changes on mouse over and pressed behaviours (the original 4DWM ones doesn't do this).",
+    "homepage": "https://notabug.org/nitrofurano/pekwmthemes",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://notabug.org/nitrofurano/pekwmthemes.git",
+            "branch": "master"
+        },
+        "base-path": "themes/4dwm_based"
+    }
+}

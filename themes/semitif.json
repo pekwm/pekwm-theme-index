@@ -1,0 +1,17 @@
+{
+    "registry-version": 1,
+
+    "author": "Paulo Silva",
+    "name": "semitif",
+    "title": "Semitif",
+    "description": "A request of Claes Nästén (PekWM author), which theme i were also very curious to know how fine it would look on PekWM - mostly because it's a bit hard to find Motif-like themes available, which brings so nostalgic memories from all long-time Unix users.",
+    "homepage": "https://notabug.org/nitrofurano/pekwmthemes",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://notabug.org/nitrofurano/pekwmthemes.git",
+            "branch": "master"
+        },
+        "base-path": "themes/semitif"
+    }
+}
