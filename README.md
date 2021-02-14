@@ -18,7 +18,7 @@ the following steps:
 
 From that point, if the validation of the JSON file passes wait for
 the pull request to be merged. After updates on the main branch of
-pekwm-theme-index the [pekwm themes](https://pekdon.github.com/pekwm-themes/)
+pekwm-theme-index the [pekwm themes](https://www.pekwm.se/themes/)
 site will be updated.
 
 # Example theme JSON file
