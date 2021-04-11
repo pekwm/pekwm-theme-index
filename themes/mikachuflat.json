@@ -1,0 +1,17 @@
+{
+    "registry-version": 1,
+
+    "author": "Paulo Silva",
+    "name": "mikachuflat",
+    "title": "mikachuflat",
+    "description": "",
+    "homepage": "https://notabug.org/nitrofurano/pekwmthemes",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://notabug.org/nitrofurano/pekwmthemes.git",
+            "branch": "master"
+        },
+        "base-path": "themes/mikachuflat"
+    }
+}
