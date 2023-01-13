@@ -1,15 +1,15 @@
 {
     "registry-version": 1,
 
-    "author": "adriano.src",
-    "name": "default",
-    "title": "pekwm default theme by adriano.src",
+    "author": "Claes Nästén",
+    "name": "winter",
+    "title": "pekwm 0.3.0 default theme",
     "source": {
         "type": "git",
         "git": {
             "remote": "https://github.com/pekwm/pekwm.git",
             "branch": "master"
         },
-        "base-path": "data/themes/default"
+        "base-path": "data/themes/winter"
     }
 }
