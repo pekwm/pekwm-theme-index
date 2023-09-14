@@ -1,0 +1,16 @@
+{
+    "registry-version": 1,
+
+    "author": "Vasily Mikhaylichenko",
+    "name": "haiku",
+    "title": "Haiku OS lookalike theme",
+    "description": "Long live yellow tabs",
+    "homepage": "https://github.com/lxmx/pekwm-theme-haiku",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/lxmx/pekwm-theme-haiku.git",
+            "branch": "master"
+        }
+    }
+}
