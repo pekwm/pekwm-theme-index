@@ -1,0 +1,15 @@
+{
+    "registry-version": 1,
+
+    "author": "Claes Nästén",
+    "name": "default-0.4.x",
+    "title": "pekwm default theme for pekwm-0.4.x",
+    "source": {
+        "type": "git",
+        "git": {
+            "remote": "https://github.com/pekwm/pekwm.git",
+            "branch": "master"
+        },
+        "base-path": "data/themes/default"
+    }
+}
