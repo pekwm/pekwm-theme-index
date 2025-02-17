@@ -7,9 +7,8 @@
     "source": {
         "type": "git",
         "git": {
-            "remote": "https://github.com/pekwm/pekwm.git",
-            "branch": "master"
-        },
-        "base-path": "data/themes/default"
+            "remote": "https://github.com/pekwm/pekwm-theme-default.git",
+            "branch": "main"
+        }
     }
 }
